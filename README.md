@@ -1,1 +1,1 @@
-# SetupEasy.io
+# download setups/installers easily
