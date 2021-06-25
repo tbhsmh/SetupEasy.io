@@ -1,1 +1,1 @@
-# download setups/installers easily
+# download setups/installers easily and safely
